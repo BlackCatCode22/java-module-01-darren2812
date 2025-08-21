@@ -1,6 +1,9 @@
 // IntComparison.java
 // dD 08/21/25
 
+// Reference: W3 Schools for Scanner and Google AI Overview on implementing new array to
+// create an array with a specified size
+
 // importing the Scanner
 import java.util.Scanner;
 
@@ -35,3 +38,4 @@ public class LargestOfThree {
         return largest;
     }
 }
+
