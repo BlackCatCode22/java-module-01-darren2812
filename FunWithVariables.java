@@ -1,6 +1,8 @@
 // FunWithVariables.java
 // dD 8/14/2025
 
+// Reference: W3 Schools on how to use Scanners
+
 import java.util.Scanner;
 
 public class FunWithVariables {
